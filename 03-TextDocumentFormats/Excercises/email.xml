@@ -1,0 +1,23 @@
+<?xml version="1.o" encoding="UTF-8"?>
+<emails>
+    <sender>
+        <name>John</name>
+        <lastname>Doe</lastname>
+        <emailaddress>
+            <email>johndoe@gmail.com</email>
+        </emailaddress>
+    </sender>
+    <recipient>
+        <name>Jess</name>
+        <lastname>Doe</lastname>
+        <emailaddress>
+            <email>jessdoe@gmail.com</email>
+        </emailaddress>
+    </recipient>
+    <subject>
+        <title>Hi Honey</title>
+    </subject>
+    <message>
+        <body>What's for dinner? :D</body>
+    </message>
+</emails>

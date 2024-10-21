@@ -9,4 +9,13 @@
         </specs>
         <price currency="USD">799</price>
     </smartphone>
+    <smartphone brand="XIAOMI" model="Redmi Note 10 Pro" releaseYear="2021">
+        <specs>
+            <screenSize unit="inch">6.7</screenSize>
+            <batteryCapacity unit="mAh">5020</batteryCapacity>
+            <storage unit="GB">128</storage>
+            <camera unit="MP">108</camera>
+        </specs>
+        <price currency="USD">160</price>
+    </smartphone>
 </smartphones>

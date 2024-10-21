@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transport>
+    <form>
+        <name>Public Transport</name>
+        <properties>
+            <quick>Yes</quick>
+            <clean>Debatable</clean>
+            <comfortable>Remotely</comfortable>
+            <safe>Remotely</safe>
+        </properties>
+        <attributes>
+            <accessible>Yes</accessible>
+            <fees>Yes</fees>
+        </formulas>
+    </form>
+    <form>
+        <name>Car</name>
+        <properties>
+            <quick>Yes</quick>
+            <clean>Personal</clean>
+            <comfortable>Yes</comfortable>
+            <safe>Yes</safe>
+        </properties>
+        <attributes>
+            <accessible>Yes</accessible>
+            <fees>Personal</fees>
+        </formulas>
+    </form>
+    <form>
+        <name>Bike</name>
+       <properties>
+            <quick>Remotely</quick>
+            <clean>Yes</clean>
+            <comfortable>Yes</comfortable>
+            <safe>Yes</safe>
+        </properties>
+        <attributes>
+            <accessible>Yes</accessible>
+            <fees>No</fees>
+        </formulas>
+    </form>
+</transport>
